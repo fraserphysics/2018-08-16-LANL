@@ -709,10 +709,11 @@ exit()
   </p>
 	<ol>
 	<li>
-	python with the libraries matplotlib and numpy
+	python with the libraries matplotlib and numpy (The code you
+	installed for the python lesson will be adequate.)
 	</li>
 	<li>
-	git
+	git (The code you installed for the git lesson will be adequate.)
 	</li>
 	<li>
 	latex (Only for the optional last episode)
